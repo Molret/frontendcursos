@@ -28,6 +28,6 @@ Contribuciones
 
 Este repositorio es un esfuerzo colaborativo y siempre estamos abiertos a nuevas contribuciones. Si conoces algún recurso valioso que no esté incluido aquí, no dudes en hacer un pull request o abrir un issue. Juntos, podemos hacer de FrontendCursos una herramienta aún más completa y útil para todos.
 
-Licencia
+# Licencia
 
 Este proyecto está licenciado bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Esto significa que puedes usar, compartir y modificar el contenido de este repositorio, siempre y cuando nos des el crédito adecuado, no lo uses con fines comerciales y distribuyas tus contribuciones bajo la misma licencia.
